@@ -1,11 +1,11 @@
-<h1 align="center"> Project Title </h1> <br>
+<h1 align="center"> Fake Printer </h1> <br>
 
 <p align="center">
   Try AWT library and designing a printer.
 </p>
 
-![Commands](https://imgur.com/roukFQa "Logo Title Text 1")
-![Printer](https://imgur.com/J7l0Jyy "Logo Title Text 1")
+![Commands](https://i.imgur.com/roukFQa.jpeg "Logo Title Text 1")
+![Printer](https://i.imgur.com/J7l0Jyy.jpeg "Logo Title Text 1")
 
 
 ## Table of Contents
