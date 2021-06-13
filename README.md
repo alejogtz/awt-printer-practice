@@ -37,12 +37,6 @@ The application can be run locally or in a docker container, the requirements fo
 
 
 ## Quick Start
-Make sure the JWT Verification Key URL is configured, then you can run the server in a docker container or on your local machine.
-
-### Configure JWT Verification Key
-Update __application.yml__. Set `auth.jwt.publicKeyUrl` to the URL to fetch the JWT verification key. The application will not start if it can't set the verification key for the JWTConverter.
-
-The default value in the __application.yml__ file is set to connect to EGO running locally on its default port `8081`.
 
 ### Run Local
 Just move to source code repository and execute commands below
